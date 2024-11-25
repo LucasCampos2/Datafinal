@@ -1,0 +1,97 @@
+{
+  "asignatura": [
+    {
+      "id": "1",
+      "nombre": "Clase de Prueba",
+      "descripcion": "Esta es una clase que solo sirve para probar cosas",
+      "profesor": "Juan Prueba",
+      "imagen":""
+    },
+    {
+      "id": "2",
+      "nombre": "Arquitectura",
+      "descripcion": "Asignatura sobre la Arquitectura de Software",
+      "profesor": "Christian Lazcano"
+    },
+    {
+      "id": "3",
+      "nombre": "Programación de Aplicaciones Móviles",
+      "descripcion": "Asignatura sobre la programacion de Aplicaciones mediante Ionic",
+      "profesor": "Viviana Poblete"
+    }
+  ],
+  "usuario": [
+    {
+      "id": "1",
+      "username": "usuario1",
+      "password": "contrasena",
+      "email": "usuario@mail.cl",
+      "rut": "",
+      "isactive": "true"
+    },
+    {
+      "id": "2",
+      "username": "usuario2",
+      "password": "contrasena",
+      "email": "usuario@mail.cl",
+      "isactive": "true"
+    },
+    {
+      "id": "3",
+      "username": "Lucaas",
+      "password": "contrasena",
+      "email": "luca.campos@duocuc.cl",
+      "isactive": "true"
+    },
+    {
+      "id": "8a3b",
+      "username": "Lucas1",
+      "email": "Luca.campos@duocuc.cl",
+      "password": "contraseña",
+      "isactive": true
+    },
+    {
+      "id": "1b64",
+      "username": "Prueba",
+      "email": "Prueba@gmail.com",
+      "rut": 0,
+      "password": "contraseña",
+      "isactive": true
+    },
+    {
+      "id": "221f",
+      "username": "Lucas",
+      "email": "lucas@gmail.com",
+      "rut": 198975044,
+      "password": "contraseña",
+      "isactive": true
+    }
+  ],
+  "docente": [
+    {
+      "id": "1",
+      "username": "usuario1",
+      "password": "contrasena",
+      "email": "usuario@profesor.mail.cl",
+      "rut": "",
+      "isactive": "true"
+    }
+  ],
+  "justificacion": [
+    {
+      "id": "15d4",
+      "asignatura": "Clase de Prueba",
+      "fecha": "2024-10-17",
+      "descripcion": "Estaba Enfermo",
+      "profesor": "Juan Prueba"
+    }
+  ],
+  "historial":[
+    {
+      "nombre": "",
+      "fecha": "",
+      "imagen": ""
+    }
+  ]
+
+}
