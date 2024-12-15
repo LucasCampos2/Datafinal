@@ -83,7 +83,8 @@
       "asignatura": "Clase de Prueba",
       "fecha": "2024-10-17",
       "descripcion": "Estaba Enfermo",
-      "profesor": "Juan Prueba"
+      "profesor": "Juan Prueba",
+      "comentario":"",
     }
   ],
   "historial":[
